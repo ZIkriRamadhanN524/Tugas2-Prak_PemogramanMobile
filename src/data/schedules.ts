@@ -18,13 +18,7 @@ export const schedules: ScheduleSection[] = [
         id: "1",
         courseName: "Pemrograman Mobile",
         room: "Lab Mobile",
-        time: "08.00 - 10.30",
-      },
-      {
-        id: "2",
-        courseName: "Basis Data",
-        room: "Lab Database",
-        time: "13.00 - 15.30",
+        time: "08.45 - 10.25",
       },
     ],
   },
@@ -33,8 +27,8 @@ export const schedules: ScheduleSection[] = [
     title: "Selasa",
     data: [
       {
-        id: "3",
-        courseName: "Pemrograman Web Lanjut",
+        id: "2",
+        courseName: "Routing & Switching",
         room: "Lab Web",
         time: "08.00 - 10.30",
       },
@@ -45,10 +39,10 @@ export const schedules: ScheduleSection[] = [
     title: "Rabu",
     data: [
       {
-        id: "4",
-        courseName: "Cloud Computing",
-        room: "Lab Cloud",
-        time: "09.00 - 11.00",
+        id: "3",
+        courseName: "Interaksi Manusia dan Komputer",
+        room: "Ruang Multimedia",
+        time: "08.00 - 10.00",
       },
     ],
   },
@@ -57,10 +51,16 @@ export const schedules: ScheduleSection[] = [
     title: "Kamis",
     data: [
       {
-        id: "5",
-        courseName: "Kecerdasan Buatan",
+        id: "4",
+        courseName: "Machine Learning",
         room: "Lab AI",
         time: "10.00 - 12.30",
+      },
+      {
+        id: "5",
+        courseName: "Big Data",
+        room: "Lab Database",
+        time: "13.00 - 15.30",
       },
     ],
   },
@@ -70,9 +70,9 @@ export const schedules: ScheduleSection[] = [
     data: [
       {
         id: "6",
-        courseName: "Interaksi Manusia dan Komputer",
-        room: "Ruang Multimedia",
-        time: "08.00 - 10.00",
+        courseName: "Natural Language Processing",
+        room: "Lab AI",
+        time: "10.00 - 12.30",
       },
     ],
   },

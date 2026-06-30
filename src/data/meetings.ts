@@ -47,37 +47,37 @@ export const meetings: Meeting[] = [
   // Pemrograman Web Lanjut
   {
     id: "6",
-    courseName: "Pemrograman Web Lanjut",
+    courseName: "Routing & Switching",
     meeting: 1,
-    topic: "Vue Router",
+    topic: "Configure VLANs",
     date: "03 September 2025",
   },
   {
     id: "7",
-    courseName: "Pemrograman Web Lanjut",
+    courseName: "Routing & Switching",
     meeting: 2,
-    topic: "Pinia",
+    topic: "Configure Trunks",
     date: "10 September 2025",
   },
   {
     id: "8",
-    courseName: "Pemrograman Web Lanjut",
+    courseName: "Routing & Switching",
     meeting: 3,
-    topic: "REST API",
+    topic: "Configure DTP",
     date: "17 September 2025",
   },
 
   // Basis Data
   {
     id: "9",
-    courseName: "Basis Data",
+    courseName: "Big Data",
     meeting: 1,
     topic: "Entity Relationship Diagram",
     date: "04 September 2025",
   },
   {
     id: "10",
-    courseName: "Basis Data",
+    courseName: "Big Data",
     meeting: 2,
     topic: "Normalisasi",
     date: "11 September 2025",
@@ -102,16 +102,16 @@ export const meetings: Meeting[] = [
   // Cloud Computing
   {
     id: "13",
-    courseName: "Cloud Computing",
+    courseName: "Machine Learning",
     meeting: 1,
-    topic: "Konsep Cloud",
+    topic: "Klasifikasi dan Regresi",
     date: "06 September 2025",
   },
   {
     id: "14",
-    courseName: "Cloud Computing",
+    courseName: "Machine Learning",
     meeting: 2,
-    topic: "Cloud Service Model",
+    topic: "Supervised Learning",
     date: "13 September 2025",
   },
 
